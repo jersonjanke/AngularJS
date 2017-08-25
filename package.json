@@ -1,0 +1,23 @@
+{
+  "name": "angularjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jersonjanke/angularjs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jersonjanke/angularjs/issues"
+  },
+  "homepage": "https://github.com/jersonjanke/angularjs#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
